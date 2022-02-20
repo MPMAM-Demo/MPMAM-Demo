@@ -27,7 +27,7 @@ python Demo_Name.py
 
 | Dataset  |   Setting    |  Demo Name  |
 | :------: | :----------: | :---------: |
-|   SNIP    | Generalized Zero-shot |     snipgzs.py      |
-| SMP-2018  | Generalized Zero-shot |     smpgzs.py      |
-|   SNIP    | Standard Zero-shot |     snipszs.py      |
-| SMP-2018 | Standard Zero-shot |     smpszs.py      |
+|   SNIPS   | Generalized Zero-shot |     snipgzs.py      |
+| SMP | Generalized Zero-shot |     smpgzs.py      |
+|   SNIPS   | Standard Zero-shot |     snipszs.py      |
+| SMP | Standard Zero-shot |     smpszs.py      |
