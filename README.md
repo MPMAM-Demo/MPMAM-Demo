@@ -10,7 +10,7 @@
 2. Environment
 
 ```
-conda env create -f acl.yml
+conda env create -f SIGIR.yml
 ```
 
 
